@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Class-Builtin
-version:            0.01
+version:            0.02
 abstract:           Scalar/Array/Hash as objects
 author:
     - Dan Kogai <dankogai@dan.co.jp>
